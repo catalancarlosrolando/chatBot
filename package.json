@@ -1,0 +1,16 @@
+{
+  "name": "portfolio-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "api/chat.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "keywords": [],
+  "author": "Carlos R Catalan",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "@google/genai": "^2.28.0"
+  }
+}
